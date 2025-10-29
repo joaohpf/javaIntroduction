@@ -23,8 +23,4 @@ Each folder contains multiple `.java` files, gradually increasing in complexity,
 - Learn and reinforce Java fundamentals
 - Practice basic input/output and variable handling
 - Gradually increase coding complexity
-- Build a portfolio of practice exercises
-
----
-
-Made with 💻 and curiosity!  
+- Build a portfolio of practice exercises 
