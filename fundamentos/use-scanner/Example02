@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class HelloWorld {
     public static void main(String[] args) {
-        // Write your code here 💖
+
         double USD = 0.0045;
     
     Scanner scanner = new Scanner(System.in);
