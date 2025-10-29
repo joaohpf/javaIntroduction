@@ -8,7 +8,8 @@ This repository contains Java exercises organized by topic and difficulty. It is
 - **fundamentos/** – Fundamental Java exercises  
   - **praticar-println/** – Basic output exercises using `System.out.println`  
   - **use-scanner/** – Exercises using `Scanner` for user input  
-  - **variables/** – Exercises to practice variables, types, and assignments  
+  - **variables/** – Exercises to practice variables, types, and assignments
+  - **control-flow/** - 
 
 Each folder contains multiple `.java` files, gradually increasing in complexity, so you can see the learning progression.
 
