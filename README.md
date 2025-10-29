@@ -15,9 +15,8 @@ Each folder contains multiple `.java` files, gradually increasing in complexity,
 
 ## How to Use
 
-1. Browse the folders to find exercises and example programs.
-2. Open each `.java` file to study or run the code.
-3. Feel free to clone or download the repository to practice on your own computer.
+1. Open each `.java` file to study or run the code.
+2. Feel free to clone or download the repository to practice on your own computer.
 
 ## Goals
 
