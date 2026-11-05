@@ -1,5 +1,7 @@
 # Java Learning Repository ☕️
 
+**Author:** João Henrique Porfirio Firmiano
+
 Welcome to my **Java Learning Repository**!  
 This repository contains Java exercises organized by topic and difficulty. It is designed to track my progress and practice coding in a structured way.
 
